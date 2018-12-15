@@ -5,7 +5,9 @@ Go 语言学习资料与社区索引
 鉴于之前有人做的 [索引资料](https://github.com/wonderfo/wonderfogo/wiki) 已经过期超过 2 年，所以特开此坑。各位同学可以通过发起 Fork + Pull Request 的方式进行补充和更新。
 
 **最后更新时间**：2018 年 03 月 02 日
-
+## 第三方库
+ - [alecthomas/gometalinter](https://github.com/alecthomas/gometalinter):代码检查
+ - [cep21/circuit](https://github.com/cep21/circuit):熔断降级
 ## 交流社区
 
 ### 中文社区
